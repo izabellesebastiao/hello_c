@@ -1,0 +1,16 @@
+# Accept only .c files and some essential files
+
+# Ignore everything
+# Used to ignore compiled .c files
+*
+
+# Dont ignore .gitignore and README.md and run.sh
+!.gitignore
+!README.md
+
+
+# Dont ignore .c files
+!**.c
+!examples/
+
+
