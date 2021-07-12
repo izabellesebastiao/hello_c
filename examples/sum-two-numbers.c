@@ -1,15 +1,15 @@
 /**
- * Código para somar dois números inteiros inseridos.
+ * @file examples/sum-two-numbers.c
+ * @author Gustavo Simões
+ * @date 02 junho 2021
  * 
- * Por Gustavo Simões
- * Linguagem de programação 1
- * ENC - UFSC
- * 02/06/2021
+ * @brief Código para somar dois números inteiros inseridos.
  */
 
 // Biblioteca cabeçalho padrão de entrada/saída
 #include <stdio.h>
 
+/// Main function
 int main()
 {
     // Declarando as variáveis n1, n2 e sum como inteiras

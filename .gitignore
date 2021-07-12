@@ -12,5 +12,6 @@
 # Dont ignore .c files
 !**.c
 !examples/
+!examples/**/*
 
 
