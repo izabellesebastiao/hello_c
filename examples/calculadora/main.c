@@ -1,3 +1,39 @@
+// ARQUIVO: RELATÓRIO DE TRABALHO DE LABORATÓRIO 1..................
+//TÍTULO: Relatório de trabalho de laboratório parte prática
+//ENVIADO POR: Gustavo Simões Mendonça; Izabelle Custodia Teixeira Sebastiao.
+//Todo o código tem como autores Gustavo Simões Mendonça e Izabelle C. T. Sebastião.
+//PARA O CURSO:............................
+//DATA DE VENCIMENTO:....................
+
+//propósito
+/**Este programa, tem como objetivo central oferecer ao usuário a realização de cálculos
+matemáticos básicos. Essas operações básicas estão registradas no programa sendo elas a soma, 
+a subtração, a multiplicação e a divisão. Assim, para realizar uma das operações desejadas é necessário
+que o usuário escolha 2 números racionais./
+
+//METÓDO GERAL:
+/**A lista de tarefas gerais é:
+1. Escolha uma das opções disponíveis (+, -, /, *).
+2. inserir o primeiro número à n1.
+3. inserir o segundo número à n2.
+4. imprime o resultado do cálculo escolhido./
+
+//FUNÇÕES:
+//Função main 
+//inicia o programa
+
+// int menuIndex 
+//determina as opções que podem ser escolhidas pelo usuário..................
+
+//float
+// Função que determina que os números digitados pelo usuário podem ser 
+//todo e qualquer número racionai.
+ 
+//ARQUIVOS INCLUÍDOS:
+...............................................................
+//ARQUIVO DE DADOS:
+//Nenhum (escrito nas diretrizes)................................
+
 /**
  * Escreva o programa “calculadora” que recebe 2 números reais e dependendo da
  * escolha do usuário realiza operações básicas (+, -, /, *) com esses números.
